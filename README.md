@@ -1,35 +1,23 @@
-# Welcome to GitHub
+# Hello!
 
-유레카 프로젝트 팀 생성을 축하합니다.
+국민대학교 소프트웨어융합대학 소프트웨어학부
+'24-02학기 유레카프로젝트 1분반 11조입니다.
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+- 2016**** 장원재
+- 2017**** 심현우
+- 2022**** 조윤주
+- 2022**** 신윤제
+- 2021**** 문지훈
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
+## Breaking out
 
-## Markdown을 사용하여 내용꾸미기
+![대표 이미지](./breakingout.png "대표 이미지")
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+원소속의 테두리를 뛰어넘어 새로운 도전을 위해 소프트웨어학부에 도전하고 있는
+전과, 다/부전공 생들의 유레카 프로젝트입니다.
 
-```markdown
-Syntax highlighted code block
+소프트웨어학부를 조금 더 잘 이해하고, 더 수월한 온보딩을 할 수 있는 방법에는 어떤 것이 있을지,
+그리고 졸업 후에는 어떤 진로들이 있을지 알아보려 합니다.
 
-# Header 1
-## Header 2
-### Header 3
+[프레젠테이션 다운로드](./final_presentation.pptx)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
